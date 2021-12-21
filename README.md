@@ -17,14 +17,14 @@
 ---
 
 - **Responsive View**
-##### after hovering on a particular shoe image two buttons will appear 
+##### Responsive to different screen sizes
 
-![Responsive](https://github.com/mayuriwasu1/Shoe_Store/blob/main/images/Sho_hover.png)
+![Responsive](https://github.com/mayuriwasu1/Shoe_Store/blob/main/images/Screenshot%20(863).png)
 
 ---
 - **Drop down Menu**
-##### after hovering on a particular shoe image two buttons will appear 
+##### On small screen drop down menu will appear  
 
-![Drop down Menu](https://github.com/mayuriwasu1/Shoe_Store/blob/main/images/Sho_hover.png)
+![Drop down Menu](https://github.com/mayuriwasu1/Shoe_Store/blob/main/images/Screenshot%20(864).png)
 
 ---
